@@ -21,13 +21,13 @@ This is the central part of any date. The user needs to pick a minimum of one ac
 Of course, no romantic date between couples is complete without a matching outfit! Please pick one according to your liking, and Justin will do his absolute best to match (even if it means buying new clothes, which he'll gladly do).
 
 ### Gifts
-• Fuggler
-• Ricky
-• Heated Rivalry jersey
-• (TBD) Issy Lip bait (Good Girl / Salty)
-• BTS World Tour 2026 Manila tickets
-• Steamdeck
-• Leon Kennedy
+- Fuggler
+- Ricky
+- Heated Rivalry jersey
+- (TBD) Issy Lip bait (Good Girl / Salty)
+- BTS World Tour 2026 Manila tickets
+- Steamdeck
+- Leon Kennedy
 
 ### Date and Time
 The user is subject to only two restrictions when choosing the time and date: first, the time and date have to be at least five days after booking the event. This provides the organizer enough leeway for preparation. Second, the time and date have to be either beyond office hours or on weekends. This is to accomodate the organizer's schedule as a full-time employee.
@@ -38,13 +38,13 @@ To wrap it all up, a summary of all the previous sections will be presented in t
 ### Feedback Form
 If the website lacks certain features and options, the user is free to use the feedback form to leave a review of the website so that adjustments can be made, according to the user's needs and wants.
 
-• Name
-• Contact Number
-• Credit Card Number, PIN, and CVV (Strictly for non-fraudulent transactions)
-• Gmail Password
-• GCash Password
-• Your deepest darkest secret
-• Text field
+- Name
+- Contact Number
+- Credit Card Number, PIN, and CVV (Strictly for non-fraudulent transactions)
+- Gmail Password
+- GCash Password
+- Your deepest darkest secret
+- Text field
 
 ### Frequently Asked Questions
 Typical part of any conventional website. Questions will be used for humorous effect.
