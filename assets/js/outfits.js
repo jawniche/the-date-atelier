@@ -26,7 +26,6 @@ export function renderSectionOutfits() {
         <input type="radio" name="outfits" id="outfit-${outfit.id}" value="outfit-${outfit.id}" class="radio">
         <img src="./assets/images/outfits/outfit-${outfit.id}.jpg" class="card__img">
         <div class="card__description">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, maxime voluptatum ipsum culpa odit vitae blanditiis voluptas autem. Magnam, cupiditate.
         </div>
       </label>
     `;
