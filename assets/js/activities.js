@@ -556,7 +556,7 @@ export function renderSectionActivities() {
     sectionActivities += `
       <label for="checkbox-${convertToCSS(activity.name)}" class="card card--hover card--square u-clickable js-card-${convertToCSS(activity.name)}">
         <input type="checkbox" name="activity" id="checkbox-${convertToCSS(activity.name)}" class="checkbox">
-        <img src="./assets/images/activities/${encodeURIComponent(activity.name)}.jpg" alt=${convertToCSS(activity.name)} class="card__img card__img--bg">
+        <img src="./assets/images/activities/${convertToCSS(activity.name)}.jpg" alt=${convertToCSS(activity.name)} class="card__img card__img--bg">
         <div class="card__description card__description--hover">
           <h1 class="card__heading">
             ${activity.name.toUpperCase()}
