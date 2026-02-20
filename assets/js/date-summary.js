@@ -1,4 +1,4 @@
-import { convertDashToSpace } from './utils.js';
+import { convertToCSS, convertDashToSpace } from './utils.js';
 import { activities } from './activities.js'
 
 export function renderSectionDateSummaryActivities() {
@@ -13,7 +13,7 @@ export function renderSectionDateSummaryActivities() {
     sectionActivities += `
       <div class="flex flex--stretch-x">
         <div class="card card--no-hover">
-          <img src="./assets/images/activities/${activity.name}.jpg" alt="${activity.name}" class="card__img card__img--bg">
+          <img src="./assets/images/activities/${convertToCSS(activity.name)}.jpg" alt="${activity.name}" class="card__img card__img--bg">
           <div class="card__description card__description--bg-img">
             <div class="card__body card__body--margin-none">
               <p>
@@ -26,7 +26,7 @@ export function renderSectionDateSummaryActivities() {
           </div>
         </div>
         <div class="card card--no-hover">
-          <img src="./assets/images/options/${activity.name}/${chosenOptionName}.jpg" alt="${chosenOptionSlug}" class="card__img card__img--bg">
+          <img src="./assets/images/options/${convertToCSS(activity.name)}/${chosenOptionName}.jpg" alt="${chosenOptionSlug}" class="card__img card__img--bg">
           <div class="card__description card__description--bg-img">
             <div class="card__body card__body--margin-none">
               <p>
