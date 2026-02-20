@@ -36,7 +36,7 @@ export function renderSectionGifts() {
     sectionGifts += `
       <label for="gift-${convertToCSS(gift.name)}" class="card card--listing card--hover u-clickable">
         <input type="radio" name="gifts" id="gift-${convertToCSS(gift.name)}" value="gift-${convertToCSS(gift.name)}" class="radio js-radio-${convertToCSS(gift.name)}">
-        <img src="assets/images/gifts/${gift.name}.png" alt="" class="card__img card__img--bg">
+        <img src="./assets/images/gifts/${gift.name}.png" alt="" class="card__img card__img--bg">
         <div class="card__description card__description--footer">
           <h1 class="card__heading card__heading--footer">
             ${gift.name.toUpperCase()}
