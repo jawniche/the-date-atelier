@@ -37,7 +37,7 @@ export function renderSectionOutfits() {
   outfits.forEach((outfit) => {
     document.querySelector(`#outfit-${outfit.id}`).addEventListener('click', () => {
       document.querySelector('.js-date-summary-card-outfit').innerHTML = `
-        <img src="./assets/images/outfits/outfit ${outfit.id}.jpg" alt="outfit-${outfit.id}" class="card__img card__img--bg">
+        <img src="./assets/images/outfits/outfit-${outfit.id}.jpg" alt="outfit-${outfit.id}" class="card__img card__img--bg">
         <div class="card__description card__description--footer">
           <div class="card__body">
             <p></p>
