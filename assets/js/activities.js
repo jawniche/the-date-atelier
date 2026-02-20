@@ -625,7 +625,7 @@ function renderSectionLocations(activityName) {
         optionsHTML += `
           <label for="radio-${convertToCSS(option.name)}" class="card card--row card--hover u-clickable">
             <input type="radio" name="${activity.name}" id="radio-${convertToCSS(option.name)}" value="${convertToCSS(option.name)}" data-slug=${convertToCSS(option.name)} data-name=${option.name} class="radio">
-            <img src="./assets/images/options/${encodeURIComponent(activity.name)}/${encodeURIComponent(option.name)}.jpg" alt="${convertToCSS(option.name)}" class="card__img card__img--bg">
+            <img src="./assets/images/options/${convertToCSS(activity.name)}/${convertToCSS(option.name)}.jpg" alt="${convertToCSS(option.name)}" class="card__img card__img--bg">
             <div class="card__description card__description--hover card__description--centered">
               <h1 class="card__heading card__heading--L">
                 ${option.name.toUpperCase()}
