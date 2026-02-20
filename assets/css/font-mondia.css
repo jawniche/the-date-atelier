@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Thin.otf') format('opentype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-ThinItalic.otf') format('opentype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Light.otf') format('opentype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia.otf') format('opentype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Bold.otf') format('opentype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-BoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-ExtraBold.otf') format('opentype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-ExtraBoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Black.otf') format('opentype');
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-BlackItalic.otf') format('opentype');
+  font-weight: 800;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-ExtraBlack.otf') format('opentype');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-ExtraBlackItalic.otf') format('opentype');
+  font-weight: 900;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-Fat.otf') format('opentype');
+  font-weight: 1000;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mondia';
+  src: url('../fonts/mondia/Mondia-FatItalic.otf') format('opentype');
+  font-weight: 1000;
+  font-display: swap;
+  font-style: italic;
+}
