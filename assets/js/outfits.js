@@ -25,8 +25,6 @@ export function renderSectionOutfits() {
       <label for="outfit-${outfit.id}" class="card card--column card--hover u-clickable">
         <input type="radio" name="outfits" id="outfit-${outfit.id}" value="outfit-${outfit.id}" class="radio">
         <img src="assets/images/outfits/outfit-${outfit.id}.jpg" class="card__img">
-        <div class="card__description">
-        </div>
       </label>
     `;
   });
@@ -38,9 +36,6 @@ export function renderSectionOutfits() {
       document.querySelector('.js-date-summary-card-outfit').innerHTML = `
         <img src="./assets/images/outfits/outfit-${outfit.id}.jpg" alt="outfit-${outfit.id}" class="card__img card__img--bg">
         <div class="card__description card__description--footer">
-          <div class="card__body">
-            <p></p>
-          </div>
           <h1 class="card__heading card__heading--L">
             OUTFIT
           </h1>
