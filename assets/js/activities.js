@@ -337,7 +337,7 @@ export const activities = [
     ], 
     chosen: false
   }, {
-    name: 'Ukay-ukay',
+    name: 'Ukay',
     description: `
       <p>
         I was never really a fashion guy…until I met you. Let's just say I'm grateful I did.
