@@ -8,6 +8,7 @@ export function renderSectionDateSummaryActivities() {
   chosenActivities.forEach((activity) => {
     
     const chosenOptionSlug = document.querySelector(`input[name="${activity.name}"]:checked`)?.dataset.slug;
+    console.log(chosenOptionSlug);
     const chosenOptionName = convertDashToSpace(document.querySelector(`input[name="${activity.name}"]:checked`)?.dataset.slug);
 
     sectionActivities += `
