@@ -7,7 +7,7 @@ export function renderSectionDateSummaryActivities() {
 
   chosenActivities.forEach((activity) => {
     
-    const chosenOptionSlug = convertDashToSpace(document.querySelector(`input[name="${activity.name}"]:checked`)?.dataset.slug);
+    const chosenOptionSlug = document.querySelector(`input[name="${activity.name}"]:checked`)?.dataset.slug;
     const chosenOptionName = convertDashToSpace(document.querySelector(`input[name="${activity.name}"]:checked`)?.dataset.slug);
 
     sectionActivities += `
@@ -26,7 +26,7 @@ export function renderSectionDateSummaryActivities() {
           </div>
         </div>
         <div class="card card--no-hover">
-          <img src="./assets/images/options/${convertToCSS(activity.name)}/${chosenOptionName}.jpg" alt="${chosenOptionSlug}" class="card__img card__img--bg">
+          <img src="./assets/images/options/${convertToCSS(activity.name)}/${chosenOptionSlug}.jpg" alt="${chosenOptionSlug}" class="card__img card__img--bg">
           <div class="card__description card__description--bg-img">
             <div class="card__body card__body--margin-none">
               <p>
