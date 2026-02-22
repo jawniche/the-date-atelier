@@ -396,7 +396,7 @@ export const activities = [
         ], 
         chosen: false
       }, {
-        name: 'K1 Wellnes and Beauty Spa',
+        name: 'K1 Wellness and Beauty Spa',
         image: 'No image attached.',
         locations: [
           {
@@ -523,7 +523,7 @@ export const activities = [
         image: '',
         locations: [
           {
-            address: '',
+            address: 'Yakal St., Makati',
             link: ''
           }
         ], 
