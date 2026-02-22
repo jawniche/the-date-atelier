@@ -13,6 +13,18 @@ const outfits = [
   }, {
     id: '04',
     image: ''
+  }, {
+    id: '05',
+    image: ''
+  }, {
+    id: '06',
+    image: ''
+  }, {
+    id: '07',
+    image: ''
+  }, {
+    id: '08',
+    image: ''
   }
 ];
 
