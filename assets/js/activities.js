@@ -528,6 +528,16 @@ export const activities = [
           }
         ], 
         chosen: false
+      }, {
+        name: 'Tyche Nail Salon',
+        image: '',
+        locations: [
+          {
+            address: 'Katipunan',
+            link: ''
+          }
+        ], 
+        chosen: false
       }
     ], 
     chosen: false
