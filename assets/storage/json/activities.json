@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Dining",
+    "description": "<p>We dined for our first ever date at Pepper Lunch, Estancia. Funnily enough, we never ate at Pepper Lunch again (no complaints!).</p><p>But we sure as hell still dined a whole lot more.</p>",
+    "options": [
+      {
+        "name": "Mendokoro Ramenba",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Makati",
+            "link": ""
+          }, {
+            "address": "BGC",
+            "link": ""
+          }, {
+            "address": "Katipunan",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Ramen Yushoken",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Capitol Commons",
+            "link": ""
+          }, {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Genki Sushi",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "SM Megamall",
+            "link": ""
+          }, {
+            "address": "UP Town Center",
+            "link": ""
+          }, {
+            "address": "SM Aura",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Tori Tori",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "San Juan City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Yabu",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Capitol Commons",
+            "link": ""
+          }, {
+            "address": "SM Megamall",
+            "link": ""
+          }, {
+            "address": "SM Aura",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Yayoi",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "SM Megamall",
+            "link": ""
+          }, {
+            "address": "BGC",
+            "link": ""
+          }, {
+            "address": "UP Town Center",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ],
+    "chosen": false
+  }, {
+    "name": "Rock Climbing",
+    "description": "<p>We've climbed separately so many times with other people, but we've yet to climb together. Will this be our chance?</p>",
+    "options": [
+      {
+        "name": "Climb Central Manila",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Mandaluyong",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "The Bouldering Hive",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Makati",
+            "link": ""
+          }, {
+            "address": "Greenhills",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Boulder Space",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ],
+    "chosen": false
+  }, {
+    "name": "Art Gallery",
+    "description": "<p> You’re in front of a painting. I'll be like, \"I'm looking at art.\"  You'll ask, \"the painting?\" I'll reply \"No, you\", and then we'll kiss and live happily ever after.</p><p>No? Just me?</p>",
+    "options": [
+      {
+        "name": "Metropolitan Museum of Manila",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "BGC",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Mind Museum",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "BGC",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Vargas Museum",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "UP Diliman",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ],
+    "chosen": false
+  }, {
+    "name": "Cafe",
+    "description": "<p> Being the workaholics that we are, we're probably going to do work instead of talk. If only I, instead, could do yo—</p>",
+    "options": [
+      {
+        "name": "Mollies World Cafe",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Yardstick Cafe",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "San Juan City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Coopers Coffee Haus",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "BGC",
+            "link": ""
+          }, {
+            "address": "Capitol Commons",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Picnic",
+    "description": "<p>In our often fast-paced lives, it's nice to sometimes unwind and connect with nature. We can play card games, eat some prepped food, and enjoy each other's company.</p>",
+    "options": [
+      {
+        "name": "Sunken Garden",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Capitol Commons Park",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Pasig City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Maybunga Rainforest Park",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Pasig City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "KTV",
+    "description": "<p>The only time I'm actually sad about the romantic adage, \"opposites attract\". God probably said we'd be too powerful if I had a good voice.</p>",
+    "options": [
+      {
+        "name": "Turtles",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Pasig City",
+            "link": ""
+          }, {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Bowling and Billiards",
+    "description": "<p>I won't be arrogant this time. Mark my words, I will beat you.</p>",
+    "options": [
+      {
+        "name": "Paengs",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Cubao",
+            "link": ""
+          }, {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "SM Megamall Bowling Center",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Mandaluyong",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Studio 300",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Kapitolyo, Pasig",
+            "link": ""
+          }, {
+            "address": "Makati",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Ukay",
+    "description": "<p>I was never really a fashion guy…until I met you. Let's just say I'm grateful I did.</p>",
+    "options": [
+      {
+        "name": "Fashion Depot",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Cubao",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Anonas Ukay Ukay",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Anonas",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Tutuban Mall",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Manila",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Massage",
+    "description": "<p>Sana nalang hindi tayo mapa-ungol sa sarap. (Anika, is dat u?)</p>",
+    "options": [
+      {
+        "name": "Banahaw Heals Spa",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Mandaluyong City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "K1 Wellness and Beauty Spa",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Makati City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "IM Onsen Spa",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Makati City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Pottery",
+    "description": "<p>We've never done this type of \"messy\" activity together. I think it'd be a nice experience to create something with our hands.</p>",
+    "options": [
+      {
+        "name": "Wabi Sabi Pottery Studio",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Kapitolyo",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Laro Ceramics",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Internet Cafe",
+    "description": "<p>I love playing video games, but what I love even more is playing those games with you. Tara Valo! (or any game your prefer)</p>",
+    "options": [
+      {
+        "name": "High Grounds Cafe",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Techtite Esports Lounge",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }, {
+    "name": "Nail Art",
+    "description": "<p>It'd be nice to get matching nails!</p>",
+    "options": [
+      {
+        "name": "Claws Studio PH",
+        "image": "No image attached.",
+        "locations": [
+          {
+            "address": "Mandaluyong",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Le Fleur Nails",
+        "image": "",
+        "locations": [
+          {
+            "address": "Krus Na Ligas",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Nelly Nails",
+        "image": "",
+        "locations": [
+          {
+            "address": "Quezon City",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Ley Nails",
+        "image": "",
+        "locations": [
+          {
+            "address": "Yakal St., Makati",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }, {
+        "name": "Tyche Nail Salon",
+        "image": "",
+        "locations": [
+          {
+            "address": "Katipunan",
+            "link": ""
+          }
+        ], 
+        "chosen": false
+      }
+    ], 
+    "chosen": false
+  }
+]
