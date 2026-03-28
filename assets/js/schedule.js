@@ -8,7 +8,7 @@ const dateEarliestHTML = `
   ${dayjs().add(6, 'days').format('dddd').toUpperCase()}
 `;
 
-const dateTimeMin = dayjs().add(6, 'days');
+const dateTimeMin = dayjs().add(1, 'days');
 
 export function renderSectionSchedule() {
 
