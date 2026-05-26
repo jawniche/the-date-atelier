@@ -381,7 +381,7 @@ export const activities = [
     name: 'Massage',
     description: `
       <p>
-        Sana nalang hindi tayo mapa-ungol sa sarap. (Anika, is dat u?)
+        Great way to relieve some muscle fatigue and pent up stress.
       </p>
     `,
     options: [
